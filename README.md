@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm Jihad Ahmed
 
-<!--
-**jihadahmeddev-201/jihadahmeddev-201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I’m a developer who values consistency and hard work. I enjoy solving problems.
 
-Here are some ideas to get you started:
+### My Current Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React, Next.js, Bootstrap, Sass, Tailwind CSS  
+**Backend:** Node.js, Express.js, Go   
+**Database:** PostgreSQL, MongoDB  
+**ORM:** Prisma  
+**Testing:** Jest, Supertest, React Testing Library  
+**Core Strengths:** TypeScript, JavaScript, SQL, Data Structures, Algorithms, OOP  
+
+---
+
+## Favorite Project
+[code-nebula]('example')  
+### Motto
+Keep building. Keep breaking. Keep getting better.
