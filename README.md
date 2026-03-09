@@ -9,7 +9,6 @@ I’m a developer who values consistency and hard work. I enjoy solving problems
 **Backend:** Node.js, Express.js, Go   
 **Database:** PostgreSQL, MongoDB  
 **ORM:** Prisma  
-**Testing:** Jest, Supertest, React Testing Library  
 **Core Strengths:** TypeScript, JavaScript, SQL, Data Structures, Algorithms, OOP  
 
 ---
